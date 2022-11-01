@@ -1,7 +1,7 @@
-import React from "react";
-import Image from "next/image";
-import heroImage from "../public/images/heroimage.jpg";
-import { Element } from "react-scroll";
+import React from "react"
+import Image from "next/image"
+import heroImage from "../public/images/heroimage.jpg"
+import { Element } from "react-scroll"
 
 function Home() {
 	return (

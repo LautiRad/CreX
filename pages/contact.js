@@ -1,4 +1,4 @@
-import { Element } from "react-scroll";
+import { Element } from "react-scroll"
 
 function contact() {
 	return (
