@@ -1,9 +1,9 @@
-import { FaApple } from "react-icons/fa";
-import { FaAirbnb } from "react-icons/fa";
-import { FaAmazon } from "react-icons/fa";
-import { FaDropbox } from "react-icons/fa";
-import { FaMicrosoft } from "react-icons/fa";
-import { Element } from "react-scroll";
+import { FaApple } from "react-icons/fa"
+import { FaAirbnb } from "react-icons/fa"
+import { FaAmazon } from "react-icons/fa"
+import { FaDropbox } from "react-icons/fa"
+import { FaMicrosoft } from "react-icons/fa"
+import { Element } from "react-scroll"
 
 function clients() {
 	return (
