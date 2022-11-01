@@ -1,4 +1,3 @@
-import { AiTwotoneHeart } from "react-icons/ai";
 function Footer() {
 	return (
 		<div className="w-full h-16 bg-gray-50 flex justify-center items-center">
