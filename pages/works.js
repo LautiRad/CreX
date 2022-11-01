@@ -1,11 +1,11 @@
-import Image from "next/image";
-import One from "../public/images/1.png";
-import Two from "../public/images/2.jpg";
-import Three from "../public/images/3.jpg";
-import Four from "../public/images/4.jpg";
-import Five from "../public/images/5.jpg";
-import Six from "../public/images/6.jpg";
-import { Element } from "react-scroll";
+import Image from "next/image"
+import One from "../public/images/1.png"
+import Two from "../public/images/2.jpg"
+import Three from "../public/images/3.jpg"
+import Four from "../public/images/4.jpg"
+import Five from "../public/images/5.jpg"
+import Six from "../public/images/6.jpg"
+import { Element } from "react-scroll"
 
 function works() {
 	return (
