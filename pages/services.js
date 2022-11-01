@@ -1,8 +1,8 @@
-import { GiCardboardBox } from "react-icons/gi";
-import { HiColorSwatch } from "react-icons/hi";
-import { MdDeveloperBoard } from "react-icons/md";
-import { AiOutlineBlock } from "react-icons/ai";
-import { Element } from "react-scroll";
+import { GiCardboardBox } from "react-icons/gi"
+import { HiColorSwatch } from "react-icons/hi"
+import { MdDeveloperBoard } from "react-icons/md"
+import { AiOutlineBlock } from "react-icons/ai"
+import { Element } from "react-scroll"
 
 function services() {
 	return (
