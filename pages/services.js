@@ -45,7 +45,7 @@ function services() {
 					</div>
 
 					{/* second block */}
-					<div className="flex flex-col justify-center items-center">
+					{/* <div className="flex flex-col justify-center items-center">
 						<div className="flex justify-center items-center cursor-pointer">
 							<HiColorSwatch className="w-10 h-10 bg-red-400 text-gray-100 m-3 p-1 shadow-xl rounded-md" />
 							<h2 className="text-xl text-indigo-600 font-semibold">
@@ -55,7 +55,7 @@ function services() {
 						<p className="md:text-base text-gray-400 md:text-center sm:text-sm sm:text-left">
 							Tenemos un equipo con especialistas que te pueden ayudar con el diseño, imagen y demás herramientas para tu emprendimiento.
 						</p>
-					</div>
+					</div> */}
 				</div>
 
 				{/* second grid */}
