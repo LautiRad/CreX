@@ -11,7 +11,13 @@ function contact() {
 					</h1>
 
 					<div className="flex justify-center text-center md:w-1/2 w-full my-5">
-						<input
+						<a
+							href="mailto:lautaroradboone@gmail.com"
+							className="font-semibold text-white md:mt-10 mt-5 pt-5 bg-blue-500 rounded-md w-60 h-16 text-lg hover:bg-black "
+						>
+							Contacto
+						</a>
+						{/* <input
 							type="text"
 							name="email-address"
 							id="email-address"
@@ -21,7 +27,7 @@ function contact() {
 						/>
 						<button className="mt-5 text-xl w-36 h-10 bg-blue-400 text-white rounded-tr-lg rounded-br-lg hover:bg-black">
 							Enviar
-						</button>
+						</button> */}
 					</div>
 				</div>
 			</div>

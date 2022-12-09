@@ -26,7 +26,7 @@ function Home() {
 							a emprendedores, brindando soluciones tanto web2 como web3.
 						</p>
 						<a
-							href="#"
+							href="mailto:lautaroradboone@gmail.com"
 							className="font-semibold text-white md:mt-10 mt-5 pt-5 bg-blue-500 rounded-md w-60 h-16 text-lg hover:bg-black "
 						>
 							Contacto

@@ -48,7 +48,7 @@ function Navbar() {
 										Proyectos
 									</Link>
 
-									<Link
+									{/* <Link
 										activeClass="Clients"
 										to="Clients"
 										smooth={true}
@@ -57,7 +57,7 @@ function Navbar() {
 										className="cursor-pointer hover:text-blue-600 text-black px-3 py-2"
 									>
 										Clientes
-									</Link>
+									</Link> */}
 
 									<Link
 										activeClass="contact"

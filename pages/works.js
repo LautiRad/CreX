@@ -1,7 +1,7 @@
 import Image from "next/image"
-import One from "../public/images/1.png"
-import Two from "../public/images/2.jpg"
-import Three from "../public/images/3.jpg"
+import One from "../public/images/marketplace.jpeg"
+import Two from "../public/images/auto.jpeg"
+import Three from "../public/images/entrenamiento.jpeg"
 import Four from "../public/images/4.jpg"
 import Five from "../public/images/5.jpg"
 import Six from "../public/images/6.jpg"
@@ -17,15 +17,18 @@ function works() {
 				</h1>
 				<div className="md:flex sm:flex-col md:flex-row justify-center items-center gap-10 mt-10">
 					<div className="rounded w-80 h-60 shadow-xl relative">
+						<a href="https://www.anlib.xyz">
 						<Image
 							src={One}
 							alt="One"
 							layout="fill"
 							objectFit="cover"
 							className="p-2 rounded cursor-pointer"
-						/>
+							/>
+						</a>
 					</div>
 					<div className="rounded w-80 h-60 shadow-xl relative">
+						<a href="https://www.criptocars.io">
 						<Image
 							src={Two}
 							alt="two"
@@ -33,8 +36,10 @@ function works() {
 							objectFit="cover"
 							className="p-2 rounded cursor-pointer"
 						/>
+						</a>
 					</div>
 					<div className="rounded w-80 h-60 shadow-xl relative">
+						<a href="https://prote.vercel.app">
 						<Image
 							src={Three}
 							alt="three"
@@ -42,10 +47,11 @@ function works() {
 							objectFit="cover"
 							className="p-2 rounded cursor-pointer"
 						/>
+						</a>
 					</div>
 				</div>
 				<div className="md:flex sm:flex-col md:flex-row justify-center items-start sm:pb-10 md:gap-10 mt-10">
-					<div className="rounded w-80 h-60 shadow-xl relative">
+					{/* <div className="rounded w-80 h-60 shadow-xl relative">
 						<Image
 							src={Four}
 							alt="four"
@@ -71,7 +77,7 @@ function works() {
 							objectFit="cover"
 							className="p-2 rounded cursor-pointer"
 						/>
-					</div>
+					</div> */}
 				</div>
 			</div>
 		</Element>
