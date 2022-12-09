@@ -1,6 +1,6 @@
 import React from "react"
 import Image from "next/image"
-import heroImage from "../public/images/heroimage.jpg"
+import heroImage from "../public/images/CreXLogo.png"
 import { Element } from "react-scroll"
 
 function Home() {
